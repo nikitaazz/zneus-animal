@@ -1,0 +1,21 @@
+# Core ML stack
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Data and metrics
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+
+# Logging and utils
+wandb>=0.17
+tqdm>=4.66
+kagglehub>=0.2
+Pillow>=10.0
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook support
+ipykernel>=6.25
