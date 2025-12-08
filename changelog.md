@@ -20,4 +20,5 @@
 - We logged training and validation histories, produced confusion matrices, and saved best checkpoints for each run, then summarized results with metric tables and plots for both custom and pretrained models.
 - Our CustomCNN experiments were logged into Weights & Biases. And Classification report is included in the project repository.
 
-
+## Authors
+- Matej Herzog, Nosenko Mykyta
