@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Weights & Biases local runs
+wandb/
